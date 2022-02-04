@@ -1,0 +1,8 @@
+#Evidencia de ejecuciones
+target/*
+.gradle
+build
+.idea
+gradle
+build
+.scannerwork
